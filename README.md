@@ -84,7 +84,8 @@
 
 ## Wireframes
 
-- Add Balsamiq wireframe 
+<img src="assets/images/wireframe-1.png" alt="image" width="60%" height="auto">
+
 
 <!--## Testing
 
