@@ -39,7 +39,7 @@
 
 - __Navigation Bar__
 
-  - Featured on all three pages, the full responsive navigation bar includes links to the Home page, About and Contact pages and is identical in each page to allow for easy navigation.
+  - Featured on all three pages, the full responsive navigation bar includes links to the 'Home', 'About' and 'Contact' pages and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
 
 <!--![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)-->
@@ -77,9 +77,12 @@
 
 ## Typography and color scheme
 
-- The Kanit font from Google Fonts will be used 
+- The Kanit font from Google Fonts will be used for this project.
+- The color schemes will include Greys #404040 #8C8C8C #404040 #262626 #BFBFBF from Adobe Color and black/white/grey contrasts between background and text to give a sleek look, and make the color of the images and project examples to pop.  
 
 ## Wireframes
+
+- Add Balsamiq wireframe 
 
 <!--## Testing
 
