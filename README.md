@@ -2,23 +2,25 @@
 
 <!--add logo image here (landing page image)-->
 
+<img src="astralbeardlogo.png" alt="image" width="15%" height="auto">
+
 <!--1. Purpose of the project
-2. user stories
-3. Features
-4. future features
-5. Typography and color scheme
-6. wireframes
+1. user stories
+2. Features
+3. future features
+4. Typography and color scheme
+5. wireframes
 === 1-6 for planning and then write code ===
-7. technology
-8. testing
+1. technology
+2. testing
    8.1 code validation
    8.2 test cases (user story based with screenshots)
    8.3 fixed bugs
    8.4 supported screens and browsers
-9. Deployment
+3. Deployment
    9.1 via code anywhere / VS code
    9.2 via github pages
-10. credits-->
+4.  credits-->
 
 ## Intro
 
@@ -32,10 +34,6 @@
 
 
 ## Features
-
-
-
-### Existing Features
 
 - __Navigation Bar__
 
@@ -71,7 +69,7 @@
 
   - This page will allow the user to "get in touch" through a contact form.  The user will be required to submit their full name, email address, and query.
 
-### Features Left to Implement
+## Future Features
 
 - Future features will include a gallery page showing some of the process and projects to add some more realism to the business and show the human side of the business.
 
