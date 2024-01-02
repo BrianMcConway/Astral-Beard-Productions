@@ -45,7 +45,8 @@
 - __The landing page image__
 
   - The landing page image is the ABP logo which shows a galaxy inside of a beard template with the company name imposed over it.
-
+   
+    <img src="astralbeardlogo.png" alt="image" width="15%" height="auto">
 <!--![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)-->
 
 
@@ -77,6 +78,9 @@
 
 - The Kanit font from Google Fonts will be used for this project.
 - The color schemes will include Greys #404040 #8C8C8C #404040 #262626 #BFBFBF from Adobe Color and black/white/grey contrasts between background and text to give a sleek look, and make the color of the images and project examples to pop.  
+
+<img src="assets/images/AdobeColor-black grey anthracite.jpeg" alt="image" width="15%" height="auto">
+<img src="assets/images/AdobeColor-Grey gradient abstract.jpeg" alt="image" width="15%" height="auto">
 
 ## Wireframes
 
