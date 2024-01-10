@@ -152,6 +152,8 @@ p {
     border: 1px solid #fafafa;
     border-radius: 10px;
     padding: 0 5px;
+    font-size: 14px;
+    font-family: Kanit, sans-serif;
 }
 
 .query-text-input {
@@ -163,6 +165,8 @@ p {
     border: 1px solid #fafafa;
     border-radius: 10px;
     padding: 0 5px;
+    font-size: 14px;
+    font-family: Kanit, sans-serif;
 }
 
 .submit-button {
