@@ -158,11 +158,20 @@ p {
     background: transparent;
     color: #fafafa;
     width: 90%;
-    height: 100px;
+    height: 80px;
     margin: 5px 0 20px 0;
     border: 1px solid #fafafa;
     border-radius: 10px;
     padding: 0 5px;
+}
+
+.submit-button {
+    margin-top: 20px;
+    border-radius: 10px;
+    padding: 15px 32px;
+    font-size: 100%;
+    background-color: #1d1b1c;
+    color: #e6dfdf;
 }
 
 footer {
