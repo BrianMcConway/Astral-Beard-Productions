@@ -16,3 +16,19 @@ body {
     font-family: Kanit, sans-serif;
     font-weight: bold;
 }
+
+.title {
+    text-align: center;
+    color: white;
+    font-family: Kanit, sans-serif;
+    font-weight: bold;
+    font-size: 250%;
+}
+
+.title2 {
+    text-align: center;
+    color: #c5bebe;
+    font-family: Kanit, sans-serif;
+    font-weight: bold;
+    font-size: 150%;
+}
