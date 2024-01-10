@@ -81,3 +81,30 @@ img {
     flex: 1;
     margin-left: 20px;
 }
+
+
+footer {
+    font-family: Kanit, sans-serif;
+    text-align: center;
+    color: white;
+    padding-top: 1%;
+    padding-bottom: 0%;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #1d1b1b;
+}
+
+footer>p {
+    color: #d0c8c8;
+    font-size: 80%;
+}
+
+.footer-p {
+    font-size: 20px;
+    line-height: 1.5;
+    color: #bab5b5;
+    background-color: #1d1b1b;
+    padding: 10px 10px;
+}
