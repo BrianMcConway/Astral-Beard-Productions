@@ -108,3 +108,23 @@ footer>p {
     background-color: #1d1b1b;
     padding: 10px 10px;
 }
+
+.social-icons {
+    display: flex;
+    justify-content: space-around;
+    font-size: 150%;
+}
+
+.fa-brands {
+    color: #ddd9d9;
+    transition: all 0.4s linear;
+}
+
+.fa-brands:hover {
+    color: #9999b8;
+}
+
+span {
+    color: #e8e3e3;
+    font-size: 90%;
+}
