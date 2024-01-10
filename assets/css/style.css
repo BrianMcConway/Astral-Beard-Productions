@@ -52,3 +52,14 @@ nav a {
 nav>a:hover {
     color: #9087b0
 }
+
+.intro {
+    text-align: center;
+    color: white;
+}
+
+.intro-text {
+    color: white;
+    text-align: center;
+
+}
