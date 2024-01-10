@@ -82,24 +82,54 @@ img {
     margin-left: 20px;
 }
 
-/* Form */
-#signup {
-    background-image: url("../images/signup-image.webp");
-    background-size: cover;
-    background-position: 75%;
-    padding: 20px 10% 0 10%;
-    flex-grow: 1;
+/*About page styling*/
+p {
+    font-size: 20px;
+    line-height: 1.5;
+    color: #bab5b5;
+    background-color: #1d1b1b;
+    box-shadow: 5px 5px 0px #3a3a3a;
+    border-radius: 10px;
+    padding: 10px 10px;
 }
 
+.iframe {
+    position: relative;
+    margin: 0 auto;
+}
 
-#signup-form {
+.mma-block {
+    display: flex;
+    justify-content: space-between;
+    gap: 10%;
+}
+
+.fishing-block {
+    display: flex;
+    justify-content: space-between;
+    gap: 10%;
+}
+
+.wta-block {
+    display: flex;
+    justify-content: space-between;
+    gap: 10%;
+}
+
+.soundcloud-block {
+    display: flex;
+    justify-content: space-between;
+    gap: 10%;
+}
+
+#contact-form {
     color: #ffffff;
     background-color: rgba(60, 60, 60, 0.6);
     padding: 30px;
 }
 
 
-#signup-form>h2 {
+#contact-form>h2 {
     color: #fafafa;
     margin-bottom: 20px;
 }
