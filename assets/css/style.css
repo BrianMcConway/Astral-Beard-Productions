@@ -32,3 +32,23 @@ body {
     font-weight: bold;
     font-size: 150%;
 }
+
+.active {
+    color: #f3ecec;
+}
+
+.navbar {
+    font-family: Kanit, sans-serif;
+    display: flex;
+    justify-content: space-around;
+}
+
+nav a {
+    color: #c3bbbb;
+    text-decoration: none;
+    transition: all 0.4s linear;
+}
+
+nav>a:hover {
+    color: #9087b0
+}
