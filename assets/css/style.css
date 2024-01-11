@@ -82,7 +82,8 @@ img {
 }
 
 /*About page styling*/
-p {
+/*paragraph text over black backgrougnd with shadow*/
+.paragraph {
     font-size: 20px;
     line-height: 1.5;
     color: #bab5b5;
@@ -171,7 +172,7 @@ iframe {
 .query-text-input {
     background: transparent;
     color: #fafafa;
-    width: 921%;
+    width: 90%;
     height: 80px;
     margin: 5px 0 20px 0;
     border: 1px solid #fafafa;
