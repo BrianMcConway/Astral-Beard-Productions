@@ -83,6 +83,13 @@ img {
 
 /*About page styling*/
 /*paragraph text over black backgrougnd with shadow*/
+
+.wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
 .paragraph {
     font-size: 20px;
     line-height: 1.5;
@@ -92,13 +99,18 @@ img {
     border-radius: 10px;
     padding: 10px 10px;
     max-width: 80%;
-    align-items: center;
+    min-width: 80%;
+    align-items: right;
+    flex-wrap: wrap;
 }
 
 .media {
     display: flex;
-    align-items: center;
+
     border-radius: 10px;
+    max-width: 80%;
+    min-width: 80%;
+    flex-wrap: wrap;
 }
 
 .mma-block {
@@ -133,6 +145,12 @@ img {
     color: #ffffff;
     background-color: #3c3c3c99;
     padding: 30px;
+}
+
+.about-links {
+    font-family: Kanit, sans-serif;
+    text-decoration: none;
+    color: #bab5b5;
 }
 
 /* Form */
