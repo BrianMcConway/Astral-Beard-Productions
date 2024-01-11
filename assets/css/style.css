@@ -95,15 +95,10 @@ img {
     align-items: center;
 }
 
-iframe {
-    border-radius: 10px;
-    max-width: 80%;
-    align-items: center;
-}
-
 .media {
     display: flex;
     align-items: center;
+    border-radius: 10px;
 }
 
 .mma-block {
