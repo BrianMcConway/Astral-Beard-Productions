@@ -106,8 +106,8 @@ img {
 
 .media {
     display: flex;
+
     border-radius: 10px;
-    border-color: #000000;
     max-width: 80%;
     min-width: 80%;
     flex-wrap: wrap;
@@ -147,6 +147,7 @@ img {
     padding: 30px;
 }
 
+
 .links {
     font-family: Kanit, sans-serif;
     text-decoration: none;
@@ -165,7 +166,7 @@ links>a:hover {
 
 /* Form */
 
-#contact-form {
+.contact-form {
     color: #ffffff;
     background-color: #1f1e1e99;
     max-width: 50%;
