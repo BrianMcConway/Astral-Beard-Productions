@@ -154,13 +154,13 @@ img {
     color: #e0d9d9;
 }
 
-links a {
+.links a {
     color: #c3bbbb;
     text-decoration: none;
     transition: all 0.4s linear;
 }
 
-links>a:hover {
+.links>a:hover {
     color: #9087b0;
 }
 
