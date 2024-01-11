@@ -12,14 +12,14 @@ body {
 
 .page-header {
     text-align: center;
-    color: grey;
+    color: #808080;
     font-family: Kanit, sans-serif;
     font-weight: bold;
 }
 
 .title {
     text-align: center;
-    color: white;
+    color: #F2F2F2;
     font-family: Kanit, sans-serif;
     font-weight: bold;
     font-size: 250%;
@@ -55,11 +55,11 @@ nav>a:hover {
 
 .intro {
     text-align: center;
-    color: white;
+    color: #F2F2F2;
 }
 
 .intro-text {
-    color: white;
+    color: #F2F2F2;
     text-align: center;
 }
 
@@ -90,40 +90,52 @@ p {
     box-shadow: 5px 5px 0px #3a3a3a;
     border-radius: 10px;
     padding: 10px 10px;
+    max-width: 80%;
+    align-items: center;
 }
 
-.iframe {
-    position: relative;
-    margin: 0 auto;
+iframe {
+    border-radius: 10px;
+    max-width: 80%;
+    align-items: center;
+}
+
+.media {
+    display: flex;
+    align-items: center;
 }
 
 .mma-block {
     display: flex;
-    justify-content: space-between;
-    gap: 10%;
+    flex-wrap: wrap;
+    align-items: start;
+    justify-content: space-around;
 }
 
 .fishing-block {
     display: flex;
-    justify-content: space-between;
-    gap: 10%;
+    flex-wrap: wrap;
+    align-items: start;
+    justify-content: space-around;
 }
 
 .wta-block {
     display: flex;
-    justify-content: space-between;
-    gap: 10%;
+    flex-wrap: wrap;
+    align-items: start;
+    justify-content: space-around;
 }
 
 .soundcloud-block {
     display: flex;
-    justify-content: space-between;
-    gap: 10%;
+    flex-wrap: wrap;
+    align-items: start;
+    justify-content: space-around;
 }
 
 #contact-form {
     color: #ffffff;
-    background-color: rgba(60, 60, 60, 0.6);
+    background-color: #3c3c3c99;
     padding: 30px;
 }
 
@@ -131,7 +143,7 @@ p {
 
 #contact-form {
     color: #ffffff;
-    background-color: rgba(31, 30, 30, 0.6);
+    background-color: #1f1e1e99;
     max-width: 50%;
     padding: 30px;
     border-radius: 10px;
@@ -159,7 +171,7 @@ p {
 .query-text-input {
     background: transparent;
     color: #fafafa;
-    width: 90%;
+    width: 921%;
     height: 80px;
     margin: 5px 0 20px 0;
     border: 1px solid #fafafa;
@@ -181,7 +193,7 @@ p {
 footer {
     font-family: Kanit, sans-serif;
     text-align: center;
-    color: white;
+    color: #F2F2F2;
     padding-top: 1%;
     padding-bottom: 0%;
     position: fixed;
