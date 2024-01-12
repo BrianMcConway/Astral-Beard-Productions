@@ -91,12 +91,12 @@ img {
 /*About page styling*/
 /*paragraph text over black backgrougnd with shadow*/
 
-.wrapper {
+/*.wrapper {
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
 }
-
+*/
 .paragraph {
     font-size: 20px;
     line-height: 1.5;
@@ -107,19 +107,23 @@ img {
     padding: 10px 10px;
     max-width: 90%;
     min-width: 80%;
-    align-items: right;
+    display: flex;
     flex-wrap: wrap;
+    justify-content: left;
+    flex: auto;
 }
 
 .media {
-    display: flex;
-
     border-radius: 10px;
-    max-width: 80%;
-    min-width: 80%;
-    flex-wrap: wrap;
+    height: 315px;
+    width: 560px;
+    max-width: 100%;
+    max-height: 100%;
+    display: flex;
+    justify-content: center;
 }
 
+/*
 .mma-block {
     display: flex;
     flex-wrap: wrap;
@@ -147,7 +151,7 @@ img {
     align-items: start;
     justify-content: space-around;
 }
-
+*/
 #contact-form {
     color: #ffffff;
     background-color: #1d1b1b;
