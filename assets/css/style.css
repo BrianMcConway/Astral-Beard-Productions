@@ -6,10 +6,9 @@ body {
     max-width: 80%;
     padding-left: 10%;
     padding-right: 10%;
-    padding-bottom: 15%;
+    padding-bottom: 15vh;
     font-family: Kanit, sans-serif;
-    background-image: url('../images/sunrise-over-earth.png');
-    background-size: 100%;
+    background-image: url('/assets/images/sunrise-over-earth.png');
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: center;
