@@ -24,6 +24,7 @@ body {
     font-weight: bold;
 }
 
+/*H1 font, color, size & position*/
 .title {
     text-align: center;
     color: #F2F2F2;
@@ -32,6 +33,8 @@ body {
     font-size: 250%;
 }
 
+/*H2 font,
+color, size & position*/
 .title2 {
     text-align: center;
     color: #c5bebe;
@@ -40,10 +43,13 @@ body {
     font-size: 150%;
 }
 
+/*Navbar Style*/
+/*Color for active page*/
 .active {
     color: #f3ecec;
 }
 
+/*Navbar font, size and responsiveness*/
 .navbar {
     font-family: Kanit, sans-serif;
     font-size: 25px;
@@ -51,26 +57,25 @@ body {
     justify-content: space-around;
 }
 
+/*Font color & transition time for hover*/
 nav a {
     color: #c3bbbb;
     text-decoration: none;
     transition: all 0.4s linear;
 }
 
+/*Hover color change*/
 nav>a:hover {
     color: #9087b0;
 }
 
+/*Intro text style on Home page*/
 .intro {
     text-align: center;
     color: #F2F2F2;
 }
 
-.intro-text {
-    color: #F2F2F2;
-    text-align: center;
-}
-
+/*Flexbox styling on Home/About page to make responsive change from rows to columns*/
 .container {
     display: flex;
     flex-wrap: wrap;
@@ -79,7 +84,7 @@ nav>a:hover {
     margin-bottom: 20px;
 }
 
-
+/*Hero image dimensions & position*/
 img {
     max-height: 400px;
     max-width: 90%;
@@ -87,12 +92,12 @@ img {
     border-radius: 1%;
 }
 
+/*Text left of hero image on Home page*/
 .text-box {
     flex: 1;
     margin-left: 20px;
 }
 
-/*About page styling*/
 /*paragraph text over black backgrougnd with shadow*/
 .paragraph {
     flex: 1;
@@ -109,12 +114,39 @@ img {
     margin-top: 3px;
 }
 
+/*Font color & size for paragraph headings*/
+span {
+    color: #e8e3e3;
+    font-size: 90%;
+}
+
+/*Links for highlighted text for pages and external sites*/
+.links {
+    font-family: Kanit, sans-serif;
+    text-decoration: none;
+    color: #e0d9d9;
+}
+
+/*Transition time of hover, text color for links*/
+p a {
+    color: #c3bbbb;
+    text-decoration: none;
+    transition: all 0.4s linear;
+}
+
+/*Hover color change for links*/
+p>a:hover {
+    color: #9087b0;
+}
+
+/*Style for YouTube and SoundCloud divs*/
 .media {
     max-height: 400px;
     max-width: fit-content;
     margin-bottom: 20px;
 }
 
+/*style for YouTube and SoundCloud iframes*/
 iframe {
     width: 600px;
     height: 400px;
@@ -124,49 +156,24 @@ iframe {
     overflow: hidden;
 }
 
-#contact-form {
+/*Contact form border, color, shadow, */
+.contact-form {
     color: #ffffff;
     background-color: #1d1b1b;
     padding: 30px;
-    width: 800px;
     max-width: 90%;
-    box-sizing: border-box;
-}
-
-
-.links {
-    font-family: Kanit, sans-serif;
-    text-decoration: none;
-    color: #e0d9d9;
-}
-
-p a {
-    color: #c3bbbb;
-    text-decoration: none;
-    transition: all 0.4s linear;
-}
-
-p>a:hover {
-    color: #9087b0;
-}
-
-/* Form */
-
-.contact-form {
-    color: #ffffff;
-    background-color: #22202099;
-    max-width: 45%;
-    padding: 30px;
     border-radius: 10px;
     box-shadow: 5px 5px 0px #3a3a3a;
     box-sizing: border-box;
 }
 
+/* */
 #contact-form>h2 {
     color: #fafafa;
     margin-bottom: 20px;
 }
 
+/* */
 .text-input {
     background: transparent;
     color: #fafafa;
@@ -180,6 +187,7 @@ p>a:hover {
     font-family: Kanit, sans-serif;
 }
 
+/* */
 .query-text-input {
     background: transparent;
     color: #fafafa;
@@ -193,6 +201,7 @@ p>a:hover {
     font-family: Kanit, sans-serif;
 }
 
+/* */
 .submit-button {
     margin-top: 20px;
     border-radius: 10px;
@@ -202,6 +211,7 @@ p>a:hover {
     color: #e6dfdf;
 }
 
+/*Footer font & color, position, background color*/
 footer {
     font-family: Kanit, sans-serif;
     text-align: center;
@@ -215,37 +225,22 @@ footer {
     background-color: #1d1b1b;
 }
 
-footer>p {
-    color: #d0c8c8;
-    font-size: 80%;
-}
-
-.footer-p {
-    font-size: 20px;
-    line-height: 1.5;
-    color: #bab5b5;
-    background-color: #1d1b1b;
-    padding: 10px 10px;
-}
-
+/*Social media icons size & positioning on footer*/
 .social-icons {
     display: flex;
     justify-content: space-around;
     font-size: 150%;
 }
 
+/*Social media links icons color & hover transition time*/
 .fa-brands {
     color: #ddd9d9;
     transition: all 0.4s linear;
 }
 
+/*Social media links hover color change*/
 .fa-brands:hover {
     color: #9999b8;
-}
-
-span {
-    color: #e8e3e3;
-    font-size: 90%;
 }
 
 /*confirmation page text and background color*/
@@ -259,6 +254,7 @@ span {
     background-color: #1d1b1b;
 }
 
+/*fix for background image moving at end of scroll on mobile device*/
 @media (min-width: 768px) {
     body {
         background-attachment: fixed;
