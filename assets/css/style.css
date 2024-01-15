@@ -158,6 +158,7 @@ p>a:hover {
     border-radius: 10px;
     box-shadow: 5px 5px 0px #3a3a3a;
     box-sizing: border-box;
+    position: fixed;
 }
 
 #contact-form>h2 {
