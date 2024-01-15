@@ -185,8 +185,6 @@ iframe {
 
 /* */
 .text-input {
-    background: transparent;
-    color: #fafafa;
     width: 90%;
     height: 25px;
     margin: 5px 0 20px 0;
@@ -197,10 +195,8 @@ iframe {
     font-family: Kanit, sans-serif;
 }
 
-/* */
+/*Query input box dimensions */
 .query-text-input {
-    background: transparent;
-    color: #fafafa;
     width: 90%;
     height: 80px;
     margin: 5px 0 20px 0;
@@ -219,6 +215,7 @@ iframe {
     font-size: 100%;
     background-color: #2c2a2a;
     color: #e6dfdf;
+    cursor: pointer;
 }
 
 /*Footer font & color, position, background color*/
@@ -253,7 +250,7 @@ footer {
     color: #9999b8;
 }
 
-/*confirmation page text and background color*/
+/*confirmation page font, color and background color*/
 .confirmation {
     font-family: Kanit, sans-serif;
     font-size: 1rem;
