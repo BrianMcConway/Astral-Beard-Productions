@@ -156,6 +156,16 @@ iframe {
     overflow: hidden;
 }
 
+/*Contact form */
+#contact-form {
+    color: #ffffff;
+    background-color: #1d1b1b;
+    padding: 30px;
+    width: 800px;
+    max-width: 90%;
+    box-sizing: border-box;
+}
+
 /*Contact form border, color, shadow, */
 .contact-form {
     color: #ffffff;
