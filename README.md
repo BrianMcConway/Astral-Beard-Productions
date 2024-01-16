@@ -42,11 +42,9 @@
 
 - **The landing page image**
 
-    <img src="readme-docs/astralbeardlogo-readme.webp" alt="image of beard with galaxy inside, " width="35%" height="auto">
-
   - The landing page image is the ABP logo which shows a galaxy inside of a beard template with the company name imposed over it. There is intro text describing the purpose of the site and a link to the About page in the text. This link is highlighted in a slightly different color and changes color when the mouse pointer hovers over it. This sits over a background image of a sunrise over the planet Earth.
 
-        <img src="readme-docs/landing-page.png" alt="image of beard with galaxy inside, sunrise over earth from space & intro text" width="35%" height="auto">
+      <img src="readme-docs/landing-page.png" alt="image of beard with galaxy inside, sunrise over earth from space & intro text" width="35%" height="auto">
 
   - The landing page gives a brief introduction to the function of the website, which is to provide media production options for people looking to create content for YouTube channels, social media, podcasts and websites.
 
@@ -62,9 +60,7 @@
   - The About page will provide the user with supporting YouTube videos and SoundCloud playlist to showcase previously completed projects.
   - This section is valuable to the user as they will be able to easily identify if this service is useful to them.
 
-        <img src="readme-docs/about-page.png" alt="Image of About page with YouTube video and descriptive text." width="35%" height="auto">
-
-    <!--![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)-->
+    <img src="readme-docs/about-page.png" alt="Image of About page with YouTube video and descriptive text." width="35%" height="auto">
 
 - **Contact**
 
@@ -82,12 +78,13 @@
 - The Kanit font from Google Fonts will be used for this project.
 - The color schemes will include Greys #404040 #8C8C8C #404040 #262626 #BFBFBF from Adobe Color and black/white/grey contrasts between background and text to give a sleek look, and make the color of the images and project examples to pop.
 
-<img src="readme-docs/adobe-color-black-grey-anthracite.jpeg" alt="image" width="15%" height="auto">
-<img src="readme-docs/adobe-color-grey-gradient-abstract.jpeg" alt="image" width="15%" height="auto">
+    <img src="readme-docs/adobe-color-black-grey-anthracite.jpeg" alt="Adobe color pallet image." width="25%" height="auto">
+    <img src="readme-docs/adobe-color-grey-gradient-abstract.jpeg" alt="Adobe color pallet image." width="25%" height="auto">
 
 ## Wireframes
 
-<img src="readme-docs/wireframe-abp-website.png" alt="image" width="60%" height="auto">
+<img src="readme-docs/wireframe-abp-website.png" alt="Wireframe image of website plan." width="60%" height="auto">
+
 
 <!--## Testing
 
