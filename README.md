@@ -24,64 +24,63 @@
 
 ## Intro
 
-- The purpose of this project is to create a fully functional website that will introduce and showcase a business called Astral Beard Productions (I will use the abbreviation "ABP" from here on in), and allow potential new customers to contact for more information. 
-- ABP is a production company that provides capture and/or editing of video footage with the addition of a soundtrack composed by ABP themselves. ABP also provides Intro clips and audio for projects like YouTube channels for sports people and for podcasts.  
- 
+- The purpose of this project is to create a fully functional website that will introduce and showcase a business called Astral Beard Productions (I will use the abbreviation "ABP" from here on in), and allow potential new customers to contact for more information.
+- ABP is a production company that provides capture and/or editing of video footage with the addition of a soundtrack composed by ABP themselves. ABP also provides Intro clips and audio for projects like YouTube channels for sports people and for podcasts.
+
 <!--![Responsive Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)-->
 
 ## User Stories
 
-- I wanted 
+- I wanted
 
 ## Features
 
-- __Navigation Bar__
+- **Navigation Bar**
 
   - Featured on all three pages, the full responsive navigation bar includes links to the 'Home', 'About' and 'Contact' pages and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
 
-<!--![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)-->
+- **The landing page image**
 
-- __The landing page image__
+    <img src="readme-docs/astralbeardlogo-readme.webp" alt="image of beard with galaxy inside, " width="35%" height="auto">
 
   - The landing page image is the ABP logo which shows a galaxy inside of a beard template with the company name imposed over it. There is intro text describing the purpose of the site and a link to the About page in the text. This link is highlighted in a slightly different color and changes color when the mouse pointer hovers over it. This sits over a background image of a sunrise over the planet Earth.
-   
-    <img src="readme-docs/landing-page.png" alt="image of beard with galaxy inside, sunrise over earth from space & intro text" width="35%" height="auto">
-<!--![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)-->
 
+        <img src="readme-docs/landing-page.png" alt="image of beard with galaxy inside, sunrise over earth from space & intro text" width="35%" height="auto">
 
-  - The landing page gives a brief introduction to the function of the website (which is?) 
+  - The landing page gives a brief introduction to the function of the website, which is to provide media production options for people looking to create content for YouTube channels, social media, podcasts and websites.
 
-- __The Footer__
+- **The Footer**
 
   - The footer section includes links to the relevant social media sites for ABP. The links will open to a new tab to allow easy navigation for the user.
   - The footer is valuable to the user as it encourages them to keep connected via social media
 
 <!--![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)-->
 
-- __About__
+- **About**
 
   - The About page will provide the user with supporting YouTube videos and SoundCloud playlist to showcase previously completed projects.
   - This section is valuable to the user as they will be able to easily identify if this service is useful to them.
 
-<img src="readme-docs/about-page.png" alt="Image of About page with YouTube video and descriptive text." width="35%" height="auto">
-<!--![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)-->
+        <img src="readme-docs/about-page.png" alt="Image of About page with YouTube video and descriptive text." width="35%" height="auto">
 
-- __Contact__
+    <!--![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)-->
 
-  - This page will allow the user to submit a through a contact form.  The user will be required to submit their full name, email address, and query. They will then be directed to a confirmation page with a link to return to the contact page.
+- **Contact**
 
-<img src="readme-docs/contact-page.png" alt="Image of Contact page with contact form." width="35%" height="auto">
+  - This page will allow the user to submit a through a contact form. The user will be required to submit their full name, email address, and query. They will then be directed to a confirmation page with a link to return to the contact page.
+
+    <img src="readme-docs/contact-page.png" alt="Image of Contact page with contact form." width="35%" height="auto">
 
 ## Future Features
 
 - Future features will include an additional page where original music compositions can be purchased through the website with a copoyright.
-- 
+-
 
 ## Typography and color scheme
 
 - The Kanit font from Google Fonts will be used for this project.
-- The color schemes will include Greys #404040 #8C8C8C #404040 #262626 #BFBFBF from Adobe Color and black/white/grey contrasts between background and text to give a sleek look, and make the color of the images and project examples to pop.  
+- The color schemes will include Greys #404040 #8C8C8C #404040 #262626 #BFBFBF from Adobe Color and black/white/grey contrasts between background and text to give a sleek look, and make the color of the images and project examples to pop.
 
 <img src="readme-docs/adobe-color-black-grey-anthracite.jpeg" alt="image" width="15%" height="auto">
 <img src="readme-docs/adobe-color-grey-gradient-abstract.jpeg" alt="image" width="15%" height="auto">
@@ -89,7 +88,6 @@
 ## Wireframes
 
 <img src="readme-docs/wireframe-abp-website.png" alt="image" width="60%" height="auto">
-
 
 <!--## Testing
 
