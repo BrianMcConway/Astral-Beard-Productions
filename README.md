@@ -46,7 +46,7 @@
 
   - The landing page image is the ABP logo which shows a galaxy inside of a beard template with the company name imposed over it. There is intro text describing the purpose of the site and a link to the About page in the text. This link is highlighted in a slightly different color and changes color when the mouse pointer hovers over it. This sits over a background image of a sunrise over the planet Earth.
    
-    <img src="readme-docs/landing-page.png" alt="image of beard with galaxy inside, sunrise over earth from space & intro text" width="15%" height="auto">
+    <img src="readme-docs/landing-page.png" alt="image of beard with galaxy inside, sunrise over earth from space & intro text" width="35%" height="auto">
 <!--![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)-->
 
 
@@ -64,14 +64,15 @@
   - The About page will provide the user with supporting YouTube videos and SoundCloud playlist to showcase previously completed projects.
   - This section is valuable to the user as they will be able to easily identify if this service is useful to them.
 
-<img src="readme-docs/about-page.png" alt="Image of About page with YouTube video and descriptive text." width="15%" height="auto">
+<img src="readme-docs/about-page.png" alt="Image of About page with YouTube video and descriptive text." width="35%" height="auto">
 <!--![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)-->
 
 - __Contact__
 
   - This page will allow the user to submit a through a contact form.  The user will be required to submit their full name, email address, and query. They will then be directed to a confirmation page with a link to return to the contact page.
 
-<img src="readme-docs/contact-page.png" alt="Image of Contact page with contact form." width="15%" height="auto">
+<img src="readme-docs/contact-page.png" alt="Image of Contact page with contact form." width="35%" height="auto">
+
 ## Future Features
 
 - Future features will include an additional page where original music compositions can be purchased through the website with a copoyright.
