@@ -44,7 +44,7 @@
 
 - __The landing page image__
 
-  - The landing page image is the ABP logo which shows a galaxy inside of a beard template with the company name imposed over it.
+  - The landing page image is the ABP logo which shows a galaxy inside of a beard template with the company name imposed over it. There is intro text describing the purpose of the site and a link to the About page in the text. This link is highlighted in a slightly different color and changes color when the mouse pointer hovers over it. This sits over a background image of a sunrise over the planet Earth.
    
     <img src="readme-docs/landing-page.png" alt="image of beard with galaxy inside, sunrise over earth from space & intro text" width="15%" height="auto">
 <!--![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)-->
@@ -87,7 +87,7 @@
 
 ## Wireframes
 
-<img src="assets/images/wireframe-1.png" alt="image" width="60%" height="auto">
+<img src="readme-docs/wireframe-abp-website.png" alt="image" width="60%" height="auto">
 
 
 <!--## Testing
