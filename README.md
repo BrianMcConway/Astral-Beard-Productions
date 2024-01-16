@@ -46,7 +46,7 @@
 
   - The landing page image is the ABP logo which shows a galaxy inside of a beard template with the company name imposed over it.
    
-    <img src="astralbeardlogo.png" alt="image" width="15%" height="auto">
+    <img src="astralbeardlogo.png" alt="image of beard with galaxy inside" width="15%" height="auto">
 <!--![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)-->
 
 
@@ -68,11 +68,11 @@
 
 - __Contact__
 
-  - This page will allow the user to "get in touch" through a contact form.  The user will be required to submit their full name, email address, and query.
+  - This page will allow the user to "get in touch" through a contact form.  The user will be required to submit their full name, email address, and query. They will then be directed to a confirmation page with a link to return to the contact page.
 
 ## Future Features
 
-- Future features will include a gallery page showing some of the process and projects to add some more realism to the business and show the human side of the business.
+- Future features will include an additional page where original music compositions can be purchased through the website with a copoyright.
 
 ## Typography and color scheme
 
