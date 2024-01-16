@@ -2,7 +2,7 @@
 
 <!--add logo image here (landing page image)-->
 
-<img src="assets/images/responsive-design-replit-abp.png" alt="image" width="50%" height="auto">
+<img src="readme-docs/responsive-screenshot.png" alt="image" width="50%" height="auto">
 
 <!--1. Purpose of the project
 1. user stories
@@ -31,7 +31,7 @@
 
 ## User Stories
 
-- 
+- I wanted 
 
 ## Features
 
@@ -46,7 +46,7 @@
 
   - The landing page image is the ABP logo which shows a galaxy inside of a beard template with the company name imposed over it.
    
-    <img src="astralbeardlogo.png" alt="image of beard with galaxy inside" width="15%" height="auto">
+    <img src="readme-docs/landing-page.png" alt="image of beard with galaxy inside, sunrise over earth from space & intro text" width="15%" height="auto">
 <!--![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)-->
 
 
@@ -64,23 +64,26 @@
   - The About page will provide the user with supporting YouTube videos and SoundCloud playlist to showcase previously completed projects.
   - This section is valuable to the user as they will be able to easily identify if this service is useful to them.
 
+<img src="readme-docs/about-page.png" alt="Image of About page with YouTube video and descriptive text." width="15%" height="auto">
 <!--![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)-->
 
 - __Contact__
 
-  - This page will allow the user to "get in touch" through a contact form.  The user will be required to submit their full name, email address, and query. They will then be directed to a confirmation page with a link to return to the contact page.
+  - This page will allow the user to submit a through a contact form.  The user will be required to submit their full name, email address, and query. They will then be directed to a confirmation page with a link to return to the contact page.
 
+<img src="readme-docs/contact-page.png" alt="Image of Contact page with contact form." width="15%" height="auto">
 ## Future Features
 
 - Future features will include an additional page where original music compositions can be purchased through the website with a copoyright.
+- 
 
 ## Typography and color scheme
 
 - The Kanit font from Google Fonts will be used for this project.
 - The color schemes will include Greys #404040 #8C8C8C #404040 #262626 #BFBFBF from Adobe Color and black/white/grey contrasts between background and text to give a sleek look, and make the color of the images and project examples to pop.  
 
-<img src="assets/images/AdobeColor-black grey anthracite.jpeg" alt="image" width="15%" height="auto">
-<img src="assets/images/AdobeColor-Grey gradient abstract.jpeg" alt="image" width="15%" height="auto">
+<img src="readme-docs/adobe-color-black-grey-anthracite.jpeg" alt="image" width="15%" height="auto">
+<img src="readme-docs/adobe-color-grey-gradient-abstract.jpeg" alt="image" width="15%" height="auto">
 
 ## Wireframes
 
