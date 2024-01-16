@@ -156,34 +156,25 @@ iframe {
     overflow: hidden;
 }
 
-/*Contact form */
-#contact-form {
-    color: #ffffff;
-    background-color: #1d1b1b;
-    padding: 30px;
-    width: 800px;
-    max-width: 90%;
-    box-sizing: border-box;
-}
-
-/*Contact form border, color, shadow, */
+/*Contact form border, color, shadow, sizing*/
 .contact-form {
     color: #ffffff;
     background-color: #1d1b1b;
     padding: 30px;
+    width: 800px;
     max-width: 90%;
     border-radius: 10px;
     box-shadow: 5px 5px 0px #3a3a3a;
     box-sizing: border-box;
 }
 
-/* */
+/*Contact form heading text color*/
 #contact-form>h2 {
     color: #fafafa;
     margin-bottom: 20px;
 }
 
-/* */
+/*Text input area dimensions, font, color*/
 .text-input {
     width: 90%;
     height: 25px;
@@ -195,7 +186,7 @@ iframe {
     font-family: Kanit, sans-serif;
 }
 
-/*Query input box dimensions */
+/*Query input box dimensions, font, color*/
 .query-text-input {
     width: 90%;
     height: 80px;
@@ -207,7 +198,7 @@ iframe {
     font-family: Kanit, sans-serif;
 }
 
-/* */
+/*Submit button sizing, color, cursor type*/
 .submit-button {
     margin-top: 20px;
     border-radius: 10px;
