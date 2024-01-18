@@ -1,7 +1,4 @@
-# Astral Beard Productions
-
-<!--add logo image here (landing page image)-->
-
+# Astral Beard Production
 <img src="readme-docs/responsive-screenshot.png" alt="image" width="50%" height="auto">
 
 <!--1. Purpose of the project
@@ -27,8 +24,6 @@
 - The purpose of this project is to create a fully functional website that will introduce and showcase a business called Astral Beard Productions (I will use the abbreviation "ABP" from here on in), and allow potential new customers to contact for more information.
 - ABP is a production company that provides capture and/or editing of video footage with the addition of a soundtrack composed by ABP themselves. ABP also provides Intro clips and audio for projects like YouTube channels for sports people and for podcasts.
 
-<!--![Responsive Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)-->
-
 ## User Stories
 
 - As a user I was able to quickly identify the purpose of the website and see if it was relevant to needs. The Home page provided me with an introduction to the purpose of the website.
@@ -40,12 +35,16 @@
 
 - **Navigation Bar**
 
-  - Featured on all three pages, the full responsive navigation bar includes links to the 'Home', 'About' and 'Contact' pages and is identical in each page to allow for easy navigation.
-  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
+  - Featured on all three pages, the full responsive navigation bar (navbar) includes links to the 'Home', 'About' and 'Contact' pages and is identical in each page to allow for easy navigation.
+  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
+  - The current page is highlighted in a brighter font color on the navbar to let the user know which page they are on at that time. 
+  - The navbar page names will also change color when the mouse pointer is hovered over them to indicate that they are functional.
+  
+    <img src="readme-docs/navbar-image-readme.png" alt="image of website navbar" width="55%" height="auto">
 
 - **The landing page image**
 
-  - The landing page image is the ABP logo which shows a galaxy inside of a beard template with the company name imposed over it. There is intro text describing the purpose of the site and a link to the About page in the text. This link is highlighted in a slightly different color and changes color when the mouse pointer hovers over it. This sits over a background image of a sunrise over the planet Earth.
+  - The landing page image is the ABP logo which shows a galaxy inside of a beard template with the company name imposed over it. There is intro text describing the purpose of the site and a link to the About page in the text. This link is highlighted in a brighter color font and changes color when the mouse pointer hovers over it. This sits over a background image of a sunrise over the planet Earth.
 
       <img src="readme-docs/landing-page.png" alt="image of beard with galaxy inside, sunrise over earth from space & intro text" width="35%" height="auto">
 
@@ -56,7 +55,7 @@
   - The footer section includes links to the relevant social media sites for ABP. The links will open to a new tab to allow easy navigation for the user.
   - The footer is valuable to the user as it encourages them to keep connected via social media
 
-<!--![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)-->
+    <img src="readme-docs/footer-readme-screenshot.png" alt="image of website footer" width="65%" height="auto">
 
 - **About**
 
@@ -67,9 +66,14 @@
 
 - **Contact**
 
-  - This page will allow the user to submit a through a contact form. The user will be required to submit their full name, email address, and query. They will then be directed to a confirmation page with a link to return to the contact page.
+  - This page will allow the user to submit a through a contact form. The user will be required to submit their full name, an email address, and query. They will then be directed to a confirmation page with a link to return to the contact page.
 
     <img src="readme-docs/contact-page.png" alt="Image of Contact page with contact form." width="35%" height="auto">
+
+- **Confirmation Page**
+- The Confirmation page will show a message that the user has successfully completed the contact form. There is also a link back to the Contact page which changes color when hovered over with the mouse pointer. 
+  
+    <img src="readme-docs/confirmation-page-readme-image.png" alt="image of Confirmation page message." width="35%" height="auto">
 
 ## Future Features
 
@@ -88,8 +92,29 @@
 
  <img src="readme-docs/wireframe-abp-website.png" alt="Wireframe image of website plan." width="60%" height="auto">
 
+## Technology Used
+
+### Language Used
+
+- HTML5 and CSS3 were the languages used in this website.
+
+### Programs, Libraries & Frameworks Used
+
+- Google Fonts was used to import the Kanit font used throughout the entire project text.
+- Font Awesome was used for all social media icons contained in the project.
+- Codeanywhere and VS Code Desktop were used to write the code.
+- Inkscape was used for the logo design.
+- Favicon.cc was used to generate the favicon. 
+- Cloudconvert was used to convert my .png to .webp files to increase performance.
+- Figma was used to design the wireframe for the project.
+- Git was used to commit and push to Github.
+- Github was used to store the project code after being pushed.
+   
+
 ## Testing
 
+  - W3C Markup Validator and W3C CSS Validator were used to validate all three page of the project without errors or warnings. 
+  - 
 <!--In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
 In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
@@ -97,13 +122,6 @@ In addition, you should mention in this section how your project looks and works
 You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
 
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
-
-### Validator Testing
-
-- HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
-- CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
 
 ### Unfixed Bugs
 
