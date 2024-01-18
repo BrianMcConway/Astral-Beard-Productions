@@ -33,13 +33,6 @@
 
 - The landing page gives a brief introduction to the function of the website, which is to provide media production options for people looking to create content for YouTube channels, social media, podcasts and websites.
 
-### The Footer
-
-- The footer section includes links to the relevant social media sites for ABP. The links will open to a new tab to allow easy navigation for the user.
-- The footer is valuable to the user as it encourages them to keep connected via social media
-
-    <img src="readme-docs/footer-readme-screenshot.png" alt="image of website footer" width="65%" height="auto">
-
 - **About**
 
 - The About page will provide the user with supporting YouTube videos and SoundCloud playlist to showcase previously completed projects.
@@ -58,10 +51,16 @@
 
    <img src="readme-docs/confirmation-page-readme-image.png" alt="image of Confirmation page message." width="35%" height="auto">
 
+### The Footer
+
+- The footer section includes links to the relevant social media sites for ABP. The links will open to a new tab to allow easy navigation for the user.
+- The footer is valuable to the user as it encourages them to keep connected via social media
+
+    <img src="readme-docs/footer-readme-screenshot.png" alt="image of website footer" width="65%" height="auto">
+
 ## Future Features
 
 - Future features will include an additional page where original music compositions can be purchased through the website with a copoyright.
--
 
 ## Typography and color scheme
 
@@ -98,8 +97,8 @@
 - W3C Markup Validator and W3C CSS Validator were used to validate all three pages of the project. The final tests were completed without errors or warnings.
 - Lighthouse developer tool was also used to gauge the performance of the project on desktop and mobile views. The desktop scored a 95, and the mobile test scored 83 for performance.
 
-    <img src="readme-docs/95-desktop-home-performance.png" alt="Adobe color pallet image." width="25%" height="auto">
-    <img src="readme-docs/83-mobile-performance.png" alt="Adobe color pallet image." width="25%" height="auto">
+    <img src="readme-docs/95-desktop-home-performance.png" alt="Adobe color pallet image." width="26.7%" height="auto">
+    <img src="readme-docs/mobile-83.png" alt="Adobe color pallet image." width="25%" height="auto">
 
 ### Further Testing
 
@@ -138,6 +137,6 @@ The live link can be followed here - <https://brianmcconway.github.io/Astral-Bea
 
 ## Acknowledgements
 
-- Friends, family and colleagues for testing my project at every stage, and also for their feedback.
+- Friends, family and colleagues, for testing my project at every stage, and also for their feedback.
 - My Mentor for constructive feedback and direction.
 - Support from The Code Institute.
