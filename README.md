@@ -60,7 +60,7 @@
 
 ## Future Features
 
-- Future features will include an additional page where original music compositions can be purchased through the website with a copoyright.
+- Future features will include an additional page where original music compositions can be purchased through the website with a copyright.
 
 ## Typography and color scheme
 
