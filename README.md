@@ -119,9 +119,17 @@
     <img src="readme-docs/95-desktop-home-performance.png" alt="Adobe color pallet image." width="25%" height="auto">
     <img src="readme-docs/83-mobile-performance.png" alt="Adobe color pallet image." width="25%" height="auto">
 
- <!--In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+### Further Testing
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+- The project was also tested with Google's dev tools to show responsiveness on different screen sizes, and also on different browsers.
+- Testing was done on several desktop and laptop computers, various mobile devices like the iPhone, Nokia, Samsung and Huawei to make sure that the navigation and external links were functioning correctly.
+- Family members, friends and colleagues also kindly tested the functionality and user experience at several stages of the projects development.
+
+### Known Bugs
+
+- When scrolling on mobile devices, the background image slightly moves up and down in the scrolling direction. This is happening even though the background image is fixed.
+
+<!--In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
 
 You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
 
