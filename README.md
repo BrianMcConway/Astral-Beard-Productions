@@ -34,47 +34,47 @@
 
 ## Features
 
-- **Navigation Bar**
+### Navigation Bar
 
-  - Featured on all three pages, the full responsive navigation bar (navbar) includes links to the 'Home', 'About' and 'Contact' pages and is identical in each page to allow for easy navigation.
-  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
-  - The current page is highlighted in a brighter font color on the navbar to let the user know which page they are on at that time.
-  - The navbar page names will also change color when the mouse pointer is hovered over them to indicate that they are functional.
+- Featured on all three pages, the full responsive navigation bar (navbar) includes links to the 'Home', 'About' and 'Contact' pages and is identical in each page to allow for easy navigation.
+- This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
+- The current page is highlighted in a brighter font color on the navbar to let the user know which page they are on at that time.
+- The navbar page names will also change color when the mouse pointer is hovered over them to indicate that they are functional.
 
-    <img src="readme-docs/navbar-image-readme.png" alt="image of website navbar" width="55%" height="auto">
+  <img src="readme-docs/navbar-image-readme.png" alt="image of website navbar" width="55%" height="auto">
 
-- **The landing page image**
+### The landing page image
 
-  - The landing page image is the ABP logo which shows a galaxy inside of a beard template with the company name imposed over it. There is intro text describing the purpose of the site and a link to the About page in the text. This link is highlighted in a brighter color font and changes color when the mouse pointer hovers over it. This sits over a background image of a sunrise over the planet Earth.
+- The landing page image is the ABP logo which shows a galaxy inside of a beard template with the company name imposed over it. There is intro text describing the purpose of the site and a link to the About page in the text. This link is highlighted in a brighter color font and changes color when the mouse pointer hovers over it. This sits over a background image of a sunrise over the planet Earth.
 
-      <img src="readme-docs/landing-page.png" alt="image of beard with galaxy inside, sunrise over earth from space & intro text" width="35%" height="auto">
+    <img src="readme-docs/landing-page.png" alt="image of beard with galaxy inside, sunrise over earth from space & intro text" width="35%" height="auto">
 
-  - The landing page gives a brief introduction to the function of the website, which is to provide media production options for people looking to create content for YouTube channels, social media, podcasts and websites.
+- The landing page gives a brief introduction to the function of the website, which is to provide media production options for people looking to create content for YouTube channels, social media, podcasts and websites.
 
-- **The Footer**
+### The Footer
 
-  - The footer section includes links to the relevant social media sites for ABP. The links will open to a new tab to allow easy navigation for the user.
-  - The footer is valuable to the user as it encourages them to keep connected via social media
+- The footer section includes links to the relevant social media sites for ABP. The links will open to a new tab to allow easy navigation for the user.
+- The footer is valuable to the user as it encourages them to keep connected via social media
 
     <img src="readme-docs/footer-readme-screenshot.png" alt="image of website footer" width="65%" height="auto">
 
 - **About**
 
-  - The About page will provide the user with supporting YouTube videos and SoundCloud playlist to showcase previously completed projects.
-  - This section is valuable to the user as they will be able to easily identify if this service is useful to them.
+- The About page will provide the user with supporting YouTube videos and SoundCloud playlist to showcase previously completed projects.
+- This section is valuable to the user as they will be able to easily identify if this service is useful to them.
 
-    <img src="readme-docs/about-page.png" alt="Image of About page with YouTube video and descriptive text." width="35%" height="auto">
+   <img src="readme-docs/about-page.png" alt="Image of About page with YouTube video and descriptive text." width="35%" height="auto">
 
 - **Contact**
 
-  - This page will allow the user to submit a through a contact form. The user will be required to submit their full name, an email address, and query. They will then be directed to a confirmation page with a link to return to the contact page.
+- This page will allow the user to submit a through a contact form. The user will be required to submit their full name, an email address, and query. They will then be directed to a confirmation page with a link to return to the contact page.
 
-    <img src="readme-docs/contact-page.png" alt="Image of Contact page with contact form." width="35%" height="auto">
+   <img src="readme-docs/contact-page.png" alt="Image of Contact page with contact form." width="35%" height="auto">
 
 - **Confirmation Page**
 - The Confirmation page will show a message that the user has successfully completed the contact form. There is also a link back to the Contact page which changes color when hovered over with the mouse pointer.
 
-    <img src="readme-docs/confirmation-page-readme-image.png" alt="image of Confirmation page message." width="35%" height="auto">
+   <img src="readme-docs/confirmation-page-readme-image.png" alt="image of Confirmation page message." width="35%" height="auto">
 
 ## Future Features
 
@@ -91,7 +91,7 @@
 
 ## Wireframes
 
- <img src="readme-docs/wireframe-abp-website.png" alt="Wireframe image of website plan." width="60%" height="auto">
+   <img src="readme-docs/wireframe-abp-website.png" alt="Wireframe image of website plan." width="60%" height="auto">
 
 ## Technology Used
 
@@ -130,22 +130,20 @@
 - When scrolling on mobile devices, the background image slightly moves up and down in the scrolling direction. This is happening even though the background image is fixed. The bug persisted with the addition of a @media query to address the issue which has been removed. This bug persists.
 - There was an issue with the responsiveness of the About page. I wanted to have the media clip and relevant text on the same row on wider screens, and for the text to move below the media as the screen got narrower. I achieved this by removing the excess html and css that was causing conflicts. This bug on the About page has been resolved.
 - I had some issues with the background image not visible after I pushed to Github. The solution to this bug was in the Love Running coursework and I was able to resolve the issue for the final view of the project.
-- During the course of the project there were issues with Codeanywhere not loading up my repositary on a few occasions. I copied my progress to VS Code desktop version and worked from there to have a workspace that I knew would load for me every time, and also see my changes in realtime. I had started to move to Gitpod but encountered conflict issues as can be seen from my git commits. I continued to use Codeanywhere to complete the project.
+- During the course of the project there were issues with Codeanywhere not loading up my repositary on a few occasions, and also issues with commits not being recognised. I copied my progress to VS Code desktop version and worked from there to have a workspace that I knew would load for me every time, and also see my changes in realtime. I had started to move to Gitpod but encountered conflict issues as can be seen from my git commits. I continued to use Codeanywhere to complete the project.
 
 ## Deployment
 
-<!--
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub)
-
 - The site was deployed to GitHub pages. The steps to deploy are as follows:
-  - In the GitHub repository, navigate to the Settings tab
-  - From the source section drop-down menu, select the Master Branch
-  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+- In the GitHub repository, navigate to the Settings tab
+- From the source section drop-down menu, select the Master Branch
+- Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-The live link can be found here - <https://code-institute-org.github.io/love-running-2.0/index.html>
+The live link can be followed here - <https://brianmcconway.github.io/Astral-Beard-Productions/index.html>
 
 ## Credits
 
+<!--
 In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism.
 
 You can break the credits section up into Content and Media, depending on what you have included in your project.
