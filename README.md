@@ -1,4 +1,5 @@
 # Astral Beard Production
+
 <img src="readme-docs/responsive-screenshot.png" alt="image" width="50%" height="auto">
 
 <!--1. Purpose of the project
@@ -36,10 +37,10 @@
 - **Navigation Bar**
 
   - Featured on all three pages, the full responsive navigation bar (navbar) includes links to the 'Home', 'About' and 'Contact' pages and is identical in each page to allow for easy navigation.
-  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
-  - The current page is highlighted in a brighter font color on the navbar to let the user know which page they are on at that time. 
+  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
+  - The current page is highlighted in a brighter font color on the navbar to let the user know which page they are on at that time.
   - The navbar page names will also change color when the mouse pointer is hovered over them to indicate that they are functional.
-  
+
     <img src="readme-docs/navbar-image-readme.png" alt="image of website navbar" width="55%" height="auto">
 
 - **The landing page image**
@@ -71,8 +72,8 @@
     <img src="readme-docs/contact-page.png" alt="Image of Contact page with contact form." width="35%" height="auto">
 
 - **Confirmation Page**
-- The Confirmation page will show a message that the user has successfully completed the contact form. There is also a link back to the Contact page which changes color when hovered over with the mouse pointer. 
-  
+- The Confirmation page will show a message that the user has successfully completed the contact form. There is also a link back to the Contact page which changes color when hovered over with the mouse pointer.
+
     <img src="readme-docs/confirmation-page-readme-image.png" alt="image of Confirmation page message." width="35%" height="auto">
 
 ## Future Features
@@ -104,18 +105,21 @@
 - Font Awesome was used for all social media icons contained in the project.
 - Codeanywhere and VS Code Desktop were used to write the code.
 - Inkscape was used for the logo design.
-- Favicon.cc was used to generate the favicon. 
+- Favicon.cc was used to generate the favicon.
 - Cloudconvert was used to convert my .png to .webp files to increase performance.
 - Figma was used to design the wireframe for the project.
 - Git was used to commit and push to Github.
 - Github was used to store the project code after being pushed.
-   
 
 ## Testing
 
-  - W3C Markup Validator and W3C CSS Validator were used to validate all three page of the project without errors or warnings. 
-  - 
-<!--In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+- W3C Markup Validator and W3C CSS Validator were used to validate all three pages of the project. The final tests were completed without errors or warnings.
+- Lighthouse developer tool was also used to gauge the performance of the project on desktop and mobile views. The desktop scored a 95, and the mobile test scored 83 for performance.
+
+    <img src="readme-docs/95-desktop-home-performance.png" alt="Adobe color pallet image." width="25%" height="auto">
+    <img src="readme-docs/83-mobile-performance.png" alt="Adobe color pallet image." width="25%" height="auto">
+
+ <!--In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
 In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
 
@@ -161,10 +165,12 @@ Congratulations on completing your Readme, you have made another big stride in t
 
 Below you will find a couple of extra tips that may be helpful when completing your project. Remember that each of these projects will become part of your final portfolio so it’s important to allow enough time to showcase your best work!
 
-- One of the most basic elements of keeping a healthy commit history is with the commit message. When getting started with your project, read through [this article](https://chris.beams.io/posts/git-commit/) by Chris Beams on How to Write  a Git Commit Message
+- One of the most basic elements of keeping a healthy commit history is with the commit message. When getting started with your project, read through [this article](https://chris.beams.io/posts/git-commit/) by Chris Beams on How to Write a Git Commit Message
+
   - Make sure to keep the messages in the imperative mood
 
 - When naming the files in your project directory, make sure to consider meaningful naming of files, point to specific names and sections of content.
+
   - For example, instead of naming an image used ‘image1.png’ consider naming it ‘landing_page_img.png’. This will ensure that there are clear file paths kept.
 
 - Do some extra research on good and bad coding practices, there are a handful of useful articles to read, consider reviewing the following list when getting started:
