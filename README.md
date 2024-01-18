@@ -31,7 +31,10 @@
 
 ## User Stories
 
-- I wanted
+- As a user I was able to quickly identify the purpose of the website and see if it was relevant to needs. The Home page provided me with an introduction to the purpose of the website.
+- I was able to navigate the site easily with clearly visible links to move through the website pages. The site has links to other pages within the paragraph text that enabled me to move through the site in a fluid manner.
+- Each example project was accompanied with a description of the project and an external link to it's incorporation into a larger project and the people behind the projects.
+- I was able to easily find and follow the social media links to see more about the business. This gave me more confidence in the business from seeing a following on social media.
 
 ## Features
 
@@ -76,7 +79,7 @@
 ## Typography and color scheme
 
 - The Kanit font from Google Fonts will be used for this project.
-- The color schemes will include Greys #404040 #8C8C8C #404040 #262626 #BFBFBF from Adobe Color and black/white/grey contrasts between background and text to give a sleek look, and make the color of the images and project examples to pop.
+- The color schemes will include Greys #8C8C8C #404040 #262626 #BFBFBF #595959 #d9d9d9 from Adobe Color and black #000000/white /grey contrasts between background and text to give a sleek look over a colored background. I also used #9087b0 for color change on usable links and icons when hovered over with the mouse pointer.
 
     <img src="readme-docs/adobe-color-black-grey-anthracite.jpeg" alt="Adobe color pallet image." width="25%" height="auto">
     <img src="readme-docs/adobe-color-grey-gradient-abstract.jpeg" alt="Adobe color pallet image." width="25%" height="auto">
@@ -84,7 +87,6 @@
 ## Wireframes
 
 <img src="readme-docs/wireframe-abp-website.png" alt="Wireframe image of website plan." width="60%" height="auto">
-
 
 <!--## Testing
 
