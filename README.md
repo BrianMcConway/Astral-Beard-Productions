@@ -97,8 +97,8 @@
 - W3C Markup Validator and W3C CSS Validator were used to validate all three pages of the project. The final tests were completed without errors or warnings.
 - Lighthouse developer tool was also used to gauge the performance of the project on desktop and mobile views. The desktop scored a 95, and the mobile test scored 83 for performance.
 
-    <img src="readme-docs/95-desktop-home-performance.png" alt="Adobe color pallet image." width="26.7%" height="auto">
-    <img src="readme-docs/mobile-83.png" alt="Adobe color pallet image." width="25%" height="auto">
+    <img src="readme-docs/95-desktop-home-performance.png" alt="Performance score image desktop." width="26.7%" height="auto">
+    <img src="readme-docs/mobile-83.png" alt="Performance score image mobile." width="25%" height="auto">
 
 ### Further Testing
 
