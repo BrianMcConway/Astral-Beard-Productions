@@ -1,4 +1,4 @@
-/*google fonts import*/
+/*Google fonts import*/
 @import url("https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;1,100;1,200;1,300;1,400;1,500&family=Lato:wght@300&family=Oswald:wght@200;300;400;500;600;700&display=swap");
 
 /*Index/About/Contact pages background image, fonts*/
@@ -9,7 +9,7 @@ body {
     padding-right: 10%;
     padding-bottom: 15vh;
     font-family: Kanit, sans-serif;
-    background-image: url("../images/sunrise-over-earth.png");
+    background-image: url("/assets/images/sunrise-over-earth.webp");
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: center;
@@ -43,8 +43,7 @@ color, size & position*/
     font-size: 150%;
 }
 
-/*Navbar Style*/
-/*Color for active page*/
+/*Color for active page on navbar*/
 .active {
     color: #f3ecec;
 }
@@ -98,7 +97,7 @@ img {
     margin-left: 20px;
 }
 
-/*paragraph text over black backgrougnd with shadow*/
+/*Paragraph text over black backgrougnd with shadow*/
 .paragraph {
     flex: 1;
     font-size: 20px;
@@ -242,7 +241,7 @@ footer {
     color: #9999b8;
 }
 
-/*confirmation page font, color and background color*/
+/*Confirmation page font, color and background color*/
 .confirmation {
     font-family: Kanit, sans-serif;
     font-size: 1rem;
@@ -251,11 +250,4 @@ footer {
     max-width: 50%;
     background-image: none;
     background-color: #1d1b1b;
-}
-
-/*fix for background image moving at end of scroll on mobile device*/
-@media (min-width: 768px) {
-    body {
-        background-attachment: fixed;
-    }
 }
