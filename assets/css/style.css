@@ -196,6 +196,7 @@ iframe {
     padding: 0 5px;
     font-size: 14px;
     font-family: Kanit, sans-serif;
+    resize: none;
 }
 
 /*Submit button sizing, color, cursor type*/
