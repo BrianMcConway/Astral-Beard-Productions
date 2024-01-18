@@ -9,7 +9,7 @@ body {
     padding-right: 10%;
     padding-bottom: 15vh;
     font-family: Kanit, sans-serif;
-    background-image: url("/assets/images/sunrise-over-earth.webp");
+    background-image: url("../images/sunrise-over-earth.webp");
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: center;
