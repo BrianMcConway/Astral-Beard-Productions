@@ -2,24 +2,6 @@
 
 <img src="readme-docs/responsive-screenshot.png" alt="image" width="50%" height="auto">
 
-<!--1. Purpose of the project
-1. user stories
-2. Features
-3. future features
-4. Typography and color scheme
-5. wireframes
-=== 1-6 for planning and then write code ===
-1. technology
-2. testing
-   8.1 code validation
-   8.2 test cases (user story based with screenshots)
-   8.3 fixed bugs
-   8.4 supported screens and browsers
-3. Deployment
-   9.1 via code anywhere / VS code
-   9.2 via github pages
-4.  credits-->
-
 ## Intro
 
 - The purpose of this project is to create a fully functional website that will introduce and showcase a business called Astral Beard Productions (I will use the abbreviation "ABP" from here on in), and allow potential new customers to contact for more information.
@@ -143,39 +125,19 @@ The live link can be followed here - <https://brianmcconway.github.io/Astral-Bea
 
 ## Credits
 
-<!--
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism.
+- How to change color on hover in css 2021 <https://www.youtube.com/watch?v=p2XzQq4vq70> A tutorial on hover css I used for my links changing color when hovered over.
+- Pixbay, for the royalty free background image.
+- Clipart Library Art, for the outline for the hero image.
+- Wallpaper Hub, for the hero image filling.
+- Karl McConway, for use of his video footage.
+- Geoff Cooper for use of his video footage.
+- Sheamus O'Neill, for the use of his club logo.
+- All music contained in the website is owned by myself the developer.
+- Love Running project, as a template for the comment box, and for the the favicon html.
+- This Readme file template, for the suggested layout.
 
-You can break the credits section up into Content and Media, depending on what you have included in your project.
+## Acknowledgements
 
-### Content
-
-- The text for the Home page was taken from Wikipedia Article A
-- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
-
-### Media
-
-- The photos used on the home and sign up page are from This Open Source site
-- The images used for the gallery page were taken from this other open source site
-
-Congratulations on completing your Readme, you have made another big stride in the direction of being a developer!
-
-## Other General Project Advice
-
-Below you will find a couple of extra tips that may be helpful when completing your project. Remember that each of these projects will become part of your final portfolio so it’s important to allow enough time to showcase your best work!
-
-- One of the most basic elements of keeping a healthy commit history is with the commit message. When getting started with your project, read through [this article](https://chris.beams.io/posts/git-commit/) by Chris Beams on How to Write a Git Commit Message
-
-  - Make sure to keep the messages in the imperative mood
-
-- When naming the files in your project directory, make sure to consider meaningful naming of files, point to specific names and sections of content.
-
-  - For example, instead of naming an image used ‘image1.png’ consider naming it ‘landing_page_img.png’. This will ensure that there are clear file paths kept.
-
-- Do some extra research on good and bad coding practices, there are a handful of useful articles to read, consider reviewing the following list when getting started:
-  - [Writing Your Best Code](https://learn.shayhowe.com/html-css/writing-your-best-code/)
-  - [HTML & CSS Coding Best Practices](https://medium.com/@inceptiondj.info/html-css-coding-best-practice-fadb9870a00f)
-  - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html#General)
-
-Getting started with your Portfolio Projects can be daunting, planning your project can make-->
+- Friends, family and colleagues for testing my project at every stage, and also for their feedback.
+- My Mentor for constructive feedback and direction.
+- Support from The Code Institute.
